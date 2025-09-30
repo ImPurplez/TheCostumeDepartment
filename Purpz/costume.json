@@ -1,0 +1,34 @@
+{
+    "metadata": {
+		"name": "Purpz",
+		"desc": "you should play Qub. - impurpz.xyz"
+	},
+
+	"face": {
+		"image": "face",
+		"useFaceStencil": false
+	},
+
+	"hat": {
+		"image": "hat",
+		"xOffset": 30,
+		"yOffset": 13,
+	},
+		"overlay": {
+		"image": "overlay",
+		"underPlayer": true,
+		"xOffset": 38,
+		"yOffset": 19
+	},
+	"body": {
+		"paddleSegments": 8,
+		"bodySegments": 12
+	},
+	"files": {
+		"images": [
+			"face",
+			"overlay",
+			"hat"
+		]
+	}
+}
