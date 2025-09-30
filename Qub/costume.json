@@ -1,0 +1,25 @@
+{
+    "metadata": {
+		"name": "Qub",
+		"desc": "ba da bah bah bah da dah"
+	},
+	"face": {
+		"image": "face",
+		"useFaceStencil": true
+	},
+	"body": {
+		"paddleSegments": 8,
+		"bodySquare": true
+	},
+	"overlay": {
+		"image": "overlay",
+		"xOffset": 29,
+		"yOffset": 9
+	},
+	"files": {
+		"images": [
+			"face",
+			"overlay"
+		]
+	}
+}
