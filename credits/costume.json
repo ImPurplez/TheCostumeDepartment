@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Credits",
+		"desc": "THE FUNDING FOR THIS PROGRAM WAS MADE POSSIBLE BY YOU"
+	},
+	"face": {
+		"image": "face",
+		"overOverPlayer": true,
+		"useFaceStencil": false
+	},
+	"overlay": {
+		"image": "overlay1",
+		"underPlayer": false,
+		"bobMultiplier": 0,
+		"xOffset": 20,
+		"yOffset": 0
+	},
+	"body": {
+		"paddleSegments": 2,
+		"bodySegments": 0
+	},
+	"files": {
+		"images": [
+			"face",
+			"overlay1"
+		]
+	}
+}
